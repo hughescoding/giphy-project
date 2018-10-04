@@ -8,4 +8,4 @@ Functionality toinclude the ability to add a button via the text input form on t
 
 Also want to make the returned images toggle states between still and animated on click.
 
-Linked to Portfolio page: https://hughescoding.github.io/Bootstrap-Portfolio/portfolio.html#!
+Linked to Portfolio page: https://hughescoding.github.io/Bootstrap-Portfolio/portfolio.html
